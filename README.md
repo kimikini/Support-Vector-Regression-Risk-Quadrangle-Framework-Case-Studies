@@ -1,2 +1,9 @@
 # Support-Vector-Regression-Risk-Quadrangle-Framework-Case-Studies
-In this project, I replicated the theoretical results in Support Vector Regression: Risk Quadrangle Framework by Malandii and Uryasev. I implemented the formulations in Gurobi instead of the PSG solver used in the original case study.
+The paper Support Vector Regression: Risk Quadrangle Framewor introduced the Support Vector Regression (SVR) is a widely used machine learning technique. The Risk Quadrangle (RQ) framework provides a unified interpretation of SVR through four interconnected stochastic functionals—error, regret, risk, and deviation—linked by a common statistic. Within this framework, the ε-SVR and ν-SVR formulations correspond to the minimization of the Vapnik error and the Conditional Value-at-Risk (CVaR) norm. These measures define quadrangles whose statistics equal the average of two symmetric conditional quantiles. Moreover, ν-SVR can be viewed as a form of Distributionally Robust Regression (DRR).
+
+In this project, I replicated the theoretical results in Support Vector Regression: Risk Quadrangle Framework by Malandii and Uryasev. I implemented the formulations in Gurobi instead of the PSG solver used in the original case study. To validate the theoretical equivalence and computational performance, I conducted experiments on multiple datasets: a simple one-dimensional linear model with Laplace noise, a 10-dimensional uniform independent model, a 10-dimensional multivariate normal model with correlated features. The results confirm the consistency between the theoretical risk quadrangle interpretation and the optimization-based implementation. Finally, we discuss some potential methods that could enhance the results and also introduce how to build the non-linear SVR by applying the kernel-trick
+
+Key Words: Support Vector Regression
+
+Reference:
+A. Malandii and S. Uryasev, “Support vector regression: Risk quadrangle framework,” arXiv preprint arXiv:2212.09178, December 3 2024. [Online]. Available: https://arxiv.org/abs/2212.09178
