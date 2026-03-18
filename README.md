@@ -32,12 +32,12 @@ Theoretical equivalence
 Numerical consistency
 
 **Experiments**
-<img width="972" height="341" alt="image" src="https://github.com/user-attachments/assets/0c255bfd-659c-453c-abb0-a6d01c836a5d" />
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/0c255bfd-659c-453c-abb0-a6d01c836a5d" />
 
 
 
-**Result*
-<img width="592" height="170" alt="image" src="https://github.com/user-attachments/assets/728a57fe-7a40-4a24-8210-350eaf12ec28" />
+**Result**
+<img width="300" height="100" alt="image" src="https://github.com/user-attachments/assets/728a57fe-7a40-4a24-8210-350eaf12ec28" />
 
 
 
