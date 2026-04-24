@@ -35,15 +35,18 @@ Numerical consistency
 
 
 **Result**
+
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/728a57fe-7a40-4a24-8210-350eaf12ec28" />
 
 
 
 **Plot**
+
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/02143442-1382-4142-8a58-d62d299500a0" />
 
 
 **Tech**
+
 Python, Gurobi Optimizer, Portfolio Safeguard (PSG)
 
 
