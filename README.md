@@ -30,24 +30,23 @@ Numerical consistency
 
 **Experiments**
 
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/0c255bfd-659c-453c-abb0-a6d01c836a5d" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/0c255bfd-659c-453c-abb0-a6d01c836a5d" />
 
 
 
 **Result**
 
-<img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/728a57fe-7a40-4a24-8210-350eaf12ec28" />
+<img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/728a57fe-7a40-4a24-8210-350eaf12ec28" />
 
 
+
+**Plot**
+<img width="903" height="672" alt="image" src="https://github.com/user-attachments/assets/02143442-1382-4142-8a58-d62d299500a0" />
 
 
 **Tech**
-
 Python, Gurobi Optimizer, Portfolio Safeguard (PSG)
 
-
-
-**Key Words**: Support Vector Regression, Risk Quadrangle Framework, CVaR (Conditional Value-at-Risk)
 
 **Reference**:
 A. Malandii and S. Uryasev, “Support vector regression: Risk quadrangle framework,” arXiv preprint arXiv:2212.09178, December 3 2024. [Online]. Available: https://arxiv.org/abs/2212.09178
