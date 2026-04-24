@@ -40,7 +40,7 @@ Numerical consistency
 
 
 **Plot**
-<img width="600" height="672" alt="image" src="https://github.com/user-attachments/assets/02143442-1382-4142-8a58-d62d299500a0" />
+<img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/02143442-1382-4142-8a58-d62d299500a0" />
 
 
 **Tech**
